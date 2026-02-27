@@ -5,7 +5,11 @@ build-backend = "setuptools.build_meta"
 [project]
 name = "kombine-bilby"
 authors = [
-    {name = "Michael J. Williams", email = "michaeljw1@googlemail.com"},
+    {name = "Bilby Developers"},
+]
+maintainers = [
+    {name = "Colm Talbot", email = "colm.talbot@ligo.org"},
+    {name = "Michael J. Williams", email = "michael.williams@ligo.org"},
 ]
 description = "Plugin for using kombine with bilby."
 readme = "README.md"
